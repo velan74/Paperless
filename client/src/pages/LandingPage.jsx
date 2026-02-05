@@ -10,7 +10,7 @@ const LandingPage = () => {
       </video>
 
       <div className="overlay d-flex flex-column justify-content-center align-items-center text-center px-3">
-        <h1 className="display-3 fw-bold text-white mb-2">ThoughtPal</h1>
+        <h1 className="display-3 fw-bold text-white mb-2">Paperless</h1>
         <p className="lead text-white mb-4">Your Thoughts, Your Notes!</p>
         <div className="d-flex gap-3">
           <Link to="/login" className="btn btn-primary px-4 py-2">
